@@ -1,0 +1,14 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/mpfrancis/convert v0.0.0-20250225192625-052f5d59b6ef h1:FsAyb93Ati5m6enw+iaswc+R8fas6oj1D2n4vQIsrpQ=
+github.com/mpfrancis/convert v0.0.0-20250225192625-052f5d59b6ef/go.mod h1:BSVZ87UUy7wO7zzKGqZGQDoWcSSjFJcSpCCPo0gXBkU=
+github.com/mpfrancis/safemap v0.0.0-20250226012605-280e1bdf116c h1:PWvInF9ZafwxjSccixTIxvITNAgsbD3uYY8Pmh+TzCw=
+github.com/mpfrancis/safemap v0.0.0-20250226012605-280e1bdf116c/go.mod h1:s0Yp5otzhmlMHAWmuPOqaqxEfxGZqOjn1Z+Hm4bpZVs=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.10.0 h1:Xv5erBjTwe/5IxqUQTdXv5kgmIvbHo3QQyRwhJsOfJA=
+github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+golang.org/x/time v0.10.0 h1:3usCWA8tQn0L8+hFJQNgzpWbd89begxN66o1Ojdn5L4=
+golang.org/x/time v0.10.0/go.mod h1:3BpzKBy/shNhVucY/MWOyx10tF3SFh9QdLuxbVysPQM=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
